@@ -1,9 +1,9 @@
 <h1 align="center"> Hellooo! 👋🏾 👩🏾‍💻 ⚡️ I'm Jahnette!</h1>
 
-<!-- <p align="center"><tb><img  src="https://visitor-badge.glitch.me/badge?page_id=jahtuck5.jahtuck5"/></tb></p> -->
 
 <h2 align="center">I'm an Artist, Designer, and Aspiring Web Developer just trying to make cool stuff</h2>
 <a href="#"><h3 align="center">Portfolio Coming Soon</h3></a>
+<p align="center"><tb><img  src="https://visitor-badge.glitch.me/badge?page_id=jahtuck5.jahtuck5"/></tb></p>
 
 ## Fun Facts
 
