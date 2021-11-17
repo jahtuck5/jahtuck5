@@ -12,7 +12,7 @@
 - 💬 We can talk about all things:  
 **Spoken Word**, **Art/Digital Art**, **Non-Profits**, **Tech for Homeschooling**, **Foreign Languages**
 
-- :bulb: Currently Researching: ***UI/UX Design***
+- :bulb: Currently Researching: ***UI/UX Design & Graphic Design***
 
 ## My Interests
 <p align="center">
@@ -21,7 +21,7 @@ Art and Spoken Word<br>
 Hiking, Biking, Camping<br>
 (I'm basically a Nomad with a Family)<br>
 Traveling<br>
-Foreign Languages<br>(I'm currently learning German)<br>
+Foreign Languages<br>(I'm currently learning Hebrew)<br>
 
 </p>
 <br/>
